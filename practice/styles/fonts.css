@@ -1,0 +1,173 @@
+
+html {
+    font-family:'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFF; 
+}
+
+
+.phonePicNum {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    color: #F7C334; 
+}
+
+.pPhone {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    color: #F7C334; 
+}
+
+.pFirstScreen {
+    font-family:'Open Sans', sans-serif;
+    font-size: 18px;
+}
+
+.buttonOrderTopLine, .buttonOrderSuggestion, .buttonDish {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+
+}
+
+.pHistory {
+    font-family:'Open Sans', sans-serif;
+}
+
+.pNum{
+    font-family:'Open Sans', sans-serif;
+    font-size: 40px;
+    color: #F7C334;
+}
+
+.pNum2 {
+    font-family:'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.pSuggest {
+    font-family:'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.pOpinionText {
+    font-family:'Open Sans', sans-serif;
+    font-size: 20px;
+    font-style: italic; 
+}
+
+.pCustomer {
+    font-family:'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.pCustomerName {
+    font-family:'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.h2Welcome {
+    font-family: 'Tinos', serif;
+    font-size: 57px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #F7C334;
+}
+
+h1 {
+    font-family: 'Tinos', serif;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFF;
+}
+
+.pHistoryCardTopText, .pHistoryFeatures {
+    font-family: 'Tinos', serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFF; 
+}
+
+h2 {
+    font-family: 'Tinos', serif;
+    font-size: 54px;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFF; 
+}
+
+.h2Suggestion {
+    font-family: 'Tinos', serif;
+    font-size: 52px;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFF; 
+}
+
+.pPriceTop {
+    font-family: 'Tinos', serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    color: #F7C334;
+}
+
+.pPriceText {
+    font-family: 'Tinos', serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #FFF;
+}
+
+.ftLongText {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    color: #FFF;
+}
+
+.pFtNav, .pFtDishes, .pFtTime {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 40px;
+    color: #FFF;
+}
+
+.ftWeekdays {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    color: #FFF;  
+}
+
+.ftHref {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 40px;
+    color: #FFF;    
+}
+
+
+
+
+
+.hrefNav, .nav {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #F7C334; 
+    line-height: normal;
+}
